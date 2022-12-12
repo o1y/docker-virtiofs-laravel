@@ -1,0 +1,15 @@
+title: Include
+fields:
+  -
+    handle: entry
+    field:
+      max_items: 1
+      mode: default
+      create: false
+      display: Entry
+      type: entries
+      icon: entries
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
