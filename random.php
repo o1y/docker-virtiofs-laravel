@@ -1,7 +1,7 @@
 <?php
 
 $filename = 'random.dat';
-$filesize = 2 * 1024;
+$filesize = 2 * 1024 * 1024;
 
 $start = microtime(true);
 $handle = fopen($filename, 'w');
